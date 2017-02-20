@@ -17,7 +17,7 @@ cd $tp
 if [ -d "$tp" ]; then
 
     # Setting up AUTHORS
-    echo "* antoine.dray" > AUTHORS
+    echo "* corentin.mercier" > AUTHORS
 
     # Setting up README
     echo "Dear users," > README
